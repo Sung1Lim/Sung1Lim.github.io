@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Sungwon Lim / Researcher CV"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Sungwon Lim"
 title_separator          : "-"
 name                     : &name "Sungwon Lim"
 description              : &description "Sungwon's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
