@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI and NLP Researcher | Sungwon Lim"
+title: #""
 author_profile: true
 redirect_from: 
   - /about/
