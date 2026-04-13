@@ -11,35 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **박사수료** — 부산외국어대학교 대학원, 인공지능융합학 (4.46/4.5), 2023.03–2026.02
+* **석사졸업** — 부산외국어대학교 대학원, 한국어교육학 (4.0/4.5), 2020.03–2023.02
+* **학사졸업** — 부산외국어대학교, 스페인어학 (전공 3.12/4.5), 2013.03–2019.02
+  * 한국어교육학 복수전공, 외교학 부전공
 
 Publications
 ======
@@ -47,18 +22,40 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **2025.09-현재** — 지속가능발전-이주-사회통합의 넥서스: 글로컬 이주자의 기회・열망・토대역량 연구
+  * 인문사회연구소지원사업, 교육부
+  * 역할: 전문 연구원 (박사급)
+
+* **2025.06-10** — 사회적 고립 완화를 위한 외국인 유학생 대상 다국어 정보 지원 챗봇 개발
+  * 2025년 국가 R&D 리얼챌린지 프로그램, 국가과학기술인력개발원
+  * 역할: 연구책임자 — 전체 연구 총괄 및 연구 계획서 작성, 비정형 PDF 문서 구조화 작업 및 DB 처리
+
+* **2025.05-11** — 의미기반 데이터 추출 및 매핑으로 비정형 수산견적서 검증 Web 서비스 개발
+  * 2025 지산학 브랜치 융복합 지원 사업, 부산테크노파크
+  * 역할: 연구원 — 의미기반 데이터 추출을 위한 스키마 작업 및 end-to-end 시스템 개발
+
+* **부산외대-테디썸 RAGAS 개발** — RAG 시스템 평가
+  * 외부 용역과제 (테디썸)
+  * 역할: 연구원 — 평가 시스템 & 평가 데이터 개발
+
+* **2024.09-10** — 부산외대 & 링스업 블루푸드 데이터 해커톤
+  * 부산테크노파크 지산학브랜치사업
+  * 역할: 연구원 — 해커톤 코디네이터
+
+* **2024.04-11** — 수산-식품 통합 빅데이터 구축에서 정형-비정형 데이터 매칭 문제 해결을 위한 다층 온톨로지 맵핑 기술 개발 (최우수과제 선정)
+  * 2024년 데이터산업 분야 지산학연협력 PBL 지원사업
+  * 역할: 연구원 — 상이한 데이터들을 하나의 데이터로 구조화하고 매핑하는 end-to-end 시스템 개발 및 평가
+
+* **2023.08-12** — 블록체인 기반 STT 기술을 적용한 외국인 일자리 매칭 플랫폼 개발
+  * 2023년 부산 디지털 혁신거점 산학연관 R&BD 지원사업
+  * 역할: 연구원 — STT 기술 시스템 개발 및 다국어 평가
+
+* **2023.03-07** — NCsoft 초거대 언어 모델 학습용 프롬프트 데이터 구축 연구
+  * 역할: 연구원 — 학습 데이터 구축
+
+Activities
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2025.12.17** — 부산출입국외국인청, AI 전문가 자문 및 심사
+* **2025.09.09** — 2025 U-BDIA AI・SW 페스티벌, 발표 2건
