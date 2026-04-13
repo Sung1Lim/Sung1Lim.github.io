@@ -9,16 +9,16 @@ redirect_from:
 
 # Bridging the Gap between Complex Documents and Generative AI
 
-안녕하세요, 복잡한 구조를 가진 멀티모달 문서에서 지식을 추출하고 최적화된 답변을 생성하는 RAG 시스템 연구자 임성원입니다.
+I'm Sungwon Lim, a researcher specializing in RAG systems that extract knowledge from complex multimodal documents and generate optimized responses.
 
 **Academic & Research Focus**  
-부산외국어대학교 인공지능융합학과에서 박사 과정을 수료하며, 실제 산업 현장에서 활용 가능한 고성능 RAG 프레임워크를 연구하고 있습니다. 단순 텍스트를 넘어 표, 이미지, 복잡한 레이아웃이 포함된 Long-context Multimodal Documents를 구조적으로 이해하고 검색에 최적화하는 데 특화되어 있습니다.
+As a Ph.D. candidate (coursework completed) in AI Convergence at Busan University of Foreign Studies, I focus on building high-performance RAG frameworks applicable to real-world industry settings. My work centers on the structural understanding of Long-context Multimodal Documents — including tables, figures, and complex layouts — and optimizing them for retrieval.
 
 **Professional Experience**  
-현재 이주다문화연구소의 빅데이터 연구원으로서 실효성 있는 데이터 기반 인사이트를 도출하고 있습니다. 학술적 연구에 머물지 않고 데이터가 실제 사회적 가치로 연결되는 과정을 경험하며 실무적인 문제 해결 능력을 쌓고 있습니다.
+I currently work as a Big Data Researcher at the Institute for Migration and Multicultural Studies, where I derive actionable, data-driven insights. Beyond academic research, I actively engage in translating data into tangible social value, building practical problem-solving expertise along the way.
 
 **Current Initiatives**  
-그래프 구조화와 에이전트 추론을 결합한 차세대 멀티모달 RAG 프레임워크 설계를 추진하고 있으며, AI 기술의 문턱을 낮추기 위해 학부생 및 석사 초년생을 위한 XAI 튜토리얼 북을 집필하고 있습니다.
+I am designing a next-generation multimodal RAG framework that combines graph-based structuring with agentic reasoning. In parallel, I am authoring an XAI tutorial book aimed at undergraduate and early graduate students, with the goal of lowering the barrier to entry in AI.
 
 ---
 
